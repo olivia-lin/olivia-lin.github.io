@@ -9,6 +9,8 @@ sitemap:
 ---
 ## About Me
 
+<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" /></span>
+
 Hi there, welcome to my personal website. 
 
 My name is Olivia, a recent graduate student of Master of Data Science (MDS) from the University of British Columbia. Now, I am actively seeking data scientists, machine learning engineer, and data analyst opportunities in the greater Vancouver area.
@@ -21,7 +23,6 @@ I was born and raised in China, and went to the North America senven years ago. 
 
 ### My Skill Set
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
 - Programming & Analytics: Python, R, SQL, Java, HTML5, SAS, Tableau
 - Machine Learning: Natural Language Processing (NLP), RNN, CNN, Clustering, KNN, SVM, PCA, Keras, TensorFlow
@@ -29,15 +30,23 @@ I was born and raised in China, and went to the North America senven years ago. 
 
 ### My Education Background
 
-Master of Data Science
+**Master of Data Science**
+
 2018 – 2019
+
 University of British Columbia, Vancouver, BC
+
 Honors: Cumulative GPA 4.33 / 4.33
 
 
+**Bachelor of Arts**, double major in Mathematics and Economics
 
-Bachelor of Arts, double major in Mathematics and Economics
 2014 – 2018
-Lawrence University, Appleton, WI, USA				
+
+Lawrence University, Appleton, WI, USA
+
 Honors: Cumulative GPA 3.9 / 4.0, Four Year Dean’s List (2014 – 2018), Phi Beta Kappa
+
+
+<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
