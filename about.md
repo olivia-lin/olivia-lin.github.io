@@ -8,7 +8,7 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" style="width:260px"/></span>
+<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" style="width:250px"/></span>
 
 My name is Olivia, a recent graduate student of Master of Data Science (MDS) from the University of British Columbia. Now, I am actively seeking data scientists, machine learning engineer, and data analyst opportunities in the greater Vancouver area.
 
@@ -39,6 +39,10 @@ Honors: Four Year Dean’s List, Phi Beta Kappa
 
 <span class="image right"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt=""/></span>
 
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 
 
 
