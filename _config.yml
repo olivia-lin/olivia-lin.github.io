@@ -1,7 +1,7 @@
 # Site
-title:              Olivia's Personal Website
-bio:                'Xinyi Lin (Olivia)'
-description:        "Data Science | Statistics | Machine Learning"
+title:              Olivia Lin
+bio:                'Xinyi (Olivia) Lin'
+description:        "Olivia's personal and professional website."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
