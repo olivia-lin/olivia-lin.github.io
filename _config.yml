@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Xinyi (Olivia) Lin 
+bio:                'Data Science | Statistics | Machine Learning'
+description:        "Data Science | Statistics | Machine Learning"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -18,7 +18,7 @@ github:             https://olivia-lin.github.io
 
 # personal
 location:           Vancouver, BC
-# phone:              310-318-5555
+phone:              
 email:              olivia.xinyi.lin@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
