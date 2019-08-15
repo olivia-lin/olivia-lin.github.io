@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internship and Working Experience
+title: Internship
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -16,7 +16,6 @@ April 2019 – June 2019 <br/>
 -	Implemented statistical and machine learning models on training data with over 1000 features 
 -	Presented results of the project, usage of the pipeline, and business recommendations to the client partner
 
-
 ### Process and Controls Analyst Intern
 Thomson Reuters, Brookfield, WI, USA <br/>			           
 June 2017 – August 2017 <br/>
@@ -24,14 +23,12 @@ June 2017 – August 2017 <br/>
 -	Communicated across departments to improve applicability and documents accuracy level by 70%
 -	Evaluated and updated 40+ company policy documentations by identifying and controlling risks, which was implemented by the company
 
-
 ### Teaching and Lab Assistant
 Economics Department, Lawrence University, WI, USA <br/>			  
 September 2016 – June 2018 <br/>
 -	Led weekly problem-solving sessions to help students with economics courses, including microeconomics theory, econometrics, data analysis and visualization in Microsoft Excel, R, and Stata
 -	Corrected students’ assignments and exams, provided feedback on students’ work to professors
 -	Conducted review session to help students prepare exams by reviewing economics concepts, developing study skills, and improving time management
-
 
 ### Financial Analyst Intern
 Medtronic Orthopedics, Changzhou, China <br/>			           
