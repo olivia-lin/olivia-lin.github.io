@@ -7,37 +7,59 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About Me
+## Internship & Working Experience
 
-Hi there, welcome to my personal website. 
+#### Graduate Data Scientist (UBC Capstone Project)
 
-My name is Olivia, a recent graduate student of Master of Data Science (MDS) from the University of British Columbia. Now, I am actively seeking data scientists, machine learning engineer, and data analyst opportunities in the greater Vancouver area.
+Tetrad, Vancouver, BC, Canada 
 
-Before coming to UBC, I received my Bachelor of Arts with double majors in Mathematics and Economics from Lawrence University, WI, USA. My passion for the field of data science could be traced back to my junior year in college where I very much enjoyed taking advaced statistics courses. This passion never fades away and becomes even stronger during my study at UBC where I am able to use my knowledge and build useful models in real life.  
+April 2019 – June 2019 
 
-I have strong passion about the filed of data science and artificial intelligence because I think these are powerful tools to make the world and people’s life better. As myself a fast learner and problem solver, I enjoy exploring and learning new things so I always keep updating my skillsets.
+-	Built a reproducible infrastructure that allows for automated location analysis for a potential restaurant site by selecting strong features, feeding them into different statistical and machine learning models, and creating meta-ensemble models
+-	Developed a flexible algorithm that can be incorporated by different industries to meet their analytics needs and solve their business problems
+-	Created an automated report dashboard for the client to view the progress and accuracy during model training to improve the client’s understanding of model development
+-	Implemented statistical and machine learning models on training data with over 1000 features 
+-	Presented results of the project, usage of the pipeline, and business recommendations to the client partner
 
-I was born and raised in China, and went to the North America senven years ago. I love arts and architectures. My favourite artists are Monet and Morisot.
 
-### My Skill Set
+#### Process and Controls Analyst Intern
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+Thomson Reuters, Brookfield, WI, USA			           
 
-- Programming & Analytics: Python, R, SQL, Java, HTML5, SAS, Tableau
-- Machine Learning: Natural Language Processing (NLP), RNN, CNN, Clustering, KNN, SVM, PCA, Keras, TensorFlow
-- Statistical Analysis: Generalized linear regression, Bayesian regression, A/B testing
+June 2017 – August 2017
 
-### My Education Background
-
-Master of Data Science
-2018 – 2019
-University of British Columbia, Vancouver, BC
-Honors: Cumulative GPA 4.33 / 4.33
+-	Designed and created dashboards using SAS Visual Analytics to monitor and analyze real-time business volume, which improved workflow efficiency by 30% for capacity management team
+-	Communicated across departments to improve applicability and documents accuracy level by 70%
+-	Evaluated and updated 40+ company policy documentations by identifying and controlling risks, which was implemented by the company
 
 
 
-Bachelor of Arts, double major in Mathematics and Economics
-2014 – 2018
-Lawrence University, Appleton, WI, USA				
-Honors: Cumulative GPA 3.9 / 4.0, Four Year Dean’s List (2014 – 2018), Phi Beta Kappa
 
+
+#### Teaching and Lab Assistant
+
+Economics Department, Lawrence University, WI, USA			  
+
+September 2016 – June 2018
+
+-	Led weekly problem-solving sessions to help students with economics courses, including microeconomics theory, econometrics, data analysis and visualization in Microsoft Excel, R, and Stata
+-	Corrected students’ assignments and exams, provided feedback on students’ work to professors
+-	Conducted review session to help students prepare exams by reviewing economics concepts, developing study skills, and improving time management
+
+#### Financial Analyst Intern
+
+Medtronic Orthopedics, Changzhou, China				           
+
+July 2016 – August 2016
+
+-	Assisted senior managers’ decision-making process by providing financial analysis reports, increased cashflow efficiency by 20%
+-	Presented new policies regarding proper data procedures to 30+ colleagues to ensure proper implementations and improve consistency and efficiency
+
+Media Intern
+
+Changzhou TV Station, Changzhou, China            				                          
+
+April 2014 – July 2014
+
+-	Translated news content from Chinese to English, transcribed reports based on interviews and took notes during interviews to be used as content for daily and weekly news segments
+-	Assisted in organizing final round of competition to find a news anchor including management of check in and judges’ feedback to track contestants
