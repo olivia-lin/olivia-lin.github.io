@@ -10,7 +10,8 @@ sitemap:
 <span class="image right"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
 ### President and Member
-Chinese Student Association (CSA), Lawrence University, WI, USA <br/>
+Chinese Student Association (CSA) <br/>
+Lawrence University, WI, USA <br/>
 September 2014 – June 2018 <br/>
 - Responsible for all business operations of the organization including, but not limited to, advertising, schedule planning, budget balancing and community outreaching
 - Organized over 10 events per year including planning, managing, leading and coordinating team members
