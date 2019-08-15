@@ -8,7 +8,7 @@ sitemap:
 ---
 
 ### Graduate Data Scientist (UBC Capstone Project)
-Tetrad, Vancouver, BC, Canada <br/>
+Tetrad Computer Applications, Vancouver, BC, Canada <br/>
 April 2019 – June 2019 <br/>
 -	Built a reproducible infrastructure that allows for automated location analysis for a potential restaurant site by selecting strong features, feeding them into different statistical and machine learning models, and creating meta-ensemble models
 -	Developed a flexible algorithm that can be incorporated by different industries to meet their analytics needs and solve their business problems
