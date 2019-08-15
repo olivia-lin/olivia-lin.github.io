@@ -8,13 +8,11 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/photo.jpeg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" /></span>
 
 Hi there, welcome to my personal website. 
 
 My name is Olivia, a recent graduate student of Master of Data Science (MDS) from the University of British Columbia. Now, I am actively seeking data scientists, machine learning engineer, and data analyst opportunities in the greater Vancouver area.
-
-Before coming to UBC, I received my Bachelor of Arts with double majors in Mathematics and Economics from Lawrence University, WI, USA. My passion for the field of data science could be traced back to my junior year in college where I very much enjoyed taking advaced statistics courses. This passion never fades away and becomes even stronger during my study at UBC where I am able to use my knowledge and build useful models in real life.  
 
 I have strong passion about the filed of data science and artificial intelligence because I think these are powerful tools to make the world and people’s life better. As myself a fast learner and problem solver, I enjoy exploring and learning new things so I always keep updating my skillsets.
 
@@ -30,19 +28,18 @@ I was born and raised in China, and went to the North America senven years ago. 
 
 
 
-
 ## Education
 
 <span class="image right"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-**Master of Data Science** (2018 – 2019) </br>
-University of British Columbia, Vancouver, BC, Canada </br>
+**Master of Data Science** (2018 – 2019) <br/>
+University of British Columbia, Vancouver, BC, Canada <br/>
 Cumulative GPA 4.33 / 4.33
 
 
-**Bachelor of Arts** (2014 – 2018) </br>
-Lawrence University, Appleton, WI, USA </br>
-Double major in Mathematics and Economics </br>
+**Bachelor of Arts** (2014 – 2018) <br/>
+Lawrence University, Appleton, WI, USA <br/>
+Double major in Mathematics and Economics <br/>
 Honors: Cumulative GPA 3.9 / 4.0, Four Year Dean’s List, Phi Beta Kappa
 
 
