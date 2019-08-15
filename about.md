@@ -36,9 +36,8 @@ Double major in Mathematics and Economics <br/>
 Cumulative GPA 3.9 / 4.0
 Honors: Four Year Dean’s List, Phi Beta Kappa
 
-<br/>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt=""/></span>
+<span class="image right"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt=""/></span>
 
 
 
