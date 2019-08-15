@@ -14,7 +14,7 @@ My name is Olivia, a recent graduate student of Master of Data Science (MDS) fro
 
 I have strong passion about the filed of data science and artificial intelligence because I think these are powerful tools to make the world and people’s life better. As myself a fast learner and problem solver, I enjoy exploring and learning new things so I always keep updating my skillsets.
 
-I was born and raised in China, and went to the North America senven years ago as an exchange student. I love traveling, arts, and architectures. My favourite museum is The Art Institute of Chicago and my favourite artists are Monet and Morisot. I am also a vlogger in my leisure time.
+I was born and raised in China, and went to the North America senven years ago as an exchange student in high school. I love traveling, arts, and architectures. My favourite museum is The Art Institute of Chicago and favourite artists are Monet and Morisot. I am also a vlogger in my leisure time.
 
 <br/>
 ## Skill Set
