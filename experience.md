@@ -7,7 +7,7 @@ sitemap:
     changefreq: weekly
 ---
 
-<span class="image right"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
 ### President and Member
 Chinese Student Association (CSA) <br/>

@@ -8,7 +8,7 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" style="width:250px"/></span>
+<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" style="width:270px"/></span>
 
 Hi there, welcome to my personal website. 
 
@@ -20,9 +20,10 @@ I was born and raised in China, and went to the North America senven years ago. 
 
 
 ## Skill Set
-- **Programming & Analytics**: Python, R, SQL, Java, HTML5, SAS, Tableau
-- **Machine Learning**: Natural Language Processing (NLP), RNN, CNN, Clustering, KNN, SVM, PCA, Keras, TensorFlow
-- **Statistical Analysis**: Generalized linear regression, Bayesian regression, A/B testing
+- **Programming & Analytics**: Python, R, SQL, Java, HTML5, SAS, Tableau, VBA
+- **Machine Learning**: Natural Language Processing (NLP), Convolutional Neutral Network (CNN), Recurrent Neutral Network (RNN), Clustering, k-Nearest Neighbors (KNN), Support Vector Machine (SVM), Principal Component Analysis (PCA), Keras, TensorFlow
+- **Statistical Analysis**: Generalized Linear Model (GLM), Bayesian regression, A/B testing, predictive modeling
+- **Languages**: English, Chinese
 
 
 ## Education
