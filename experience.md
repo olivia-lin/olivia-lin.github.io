@@ -7,9 +7,10 @@ sitemap:
     changefreq: weekly
 ---
 
+### President and Member
+
 <span class="image right"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-### President and Member
 Chinese Student Association (CSA) <br/>
 Lawrence University, WI, USA <br/>
 September 2014 – June 2018 <br/>
