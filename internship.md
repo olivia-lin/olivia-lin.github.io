@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Internship and Working Experience
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Internship & Working Experience
-
-
 
 ### Graduate Data Scientist (UBC Capstone Project)
 Tetrad, Vancouver, BC, Canada <br/>

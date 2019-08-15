@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: About Me
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -21,33 +20,30 @@ I have strong passion about the filed of data science and artificial intelligenc
 
 I was born and raised in China, and went to the North America senven years ago. I love arts and architectures. My favourite artists are Monet and Morisot.
 
-### Skill Set
 
+
+## Skill Set
 
 - **Programming & Analytics**: Python, R, SQL, Java, HTML5, SAS, Tableau
 - **Machine Learning**: Natural Language Processing (NLP), RNN, CNN, Clustering, KNN, SVM, PCA, Keras, TensorFlow
 - **Statistical Analysis**: Generalized linear regression, Bayesian regression, A/B testing
 
-### Education Background
+
+
+
+## Education
 
 <span class="image right"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-**Master of Data Science**
-
-2018 – 2019
-
-University of British Columbia, Vancouver, BC
-
-Honors: Cumulative GPA 4.33 / 4.33
+**Master of Data Science** (2018 – 2019) </br>
+University of British Columbia, Vancouver, BC, Canada </br>
+Cumulative GPA 4.33 / 4.33
 
 
-**Bachelor of Arts**, double major in Mathematics and Economics
-
-2014 – 2018
-
-Lawrence University, Appleton, WI, USA
-
-Honors: Cumulative GPA 3.9 / 4.0, Four Year Dean’s List (2014 – 2018), Phi Beta Kappa
+**Bachelor of Arts** (2014 – 2018) </br>
+Lawrence University, Appleton, WI, USA </br>
+Double major in Mathematics and Economics </br>
+Honors: Cumulative GPA 3.9 / 4.0, Four Year Dean’s List, Phi Beta Kappa
 
 
 

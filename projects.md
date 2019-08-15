@@ -1,43 +1,81 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Technical Projects
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About Me
 
-Hi there, welcome to my personal website. 
-
-My name is Olivia, a recent graduate student of Master of Data Science (MDS) from the University of British Columbia. Now, I am actively seeking data scientists, machine learning engineer, and data analyst opportunities in the greater Vancouver area.
-
-Before coming to UBC, I received my Bachelor of Arts with double majors in Mathematics and Economics from Lawrence University, WI, USA. My passion for the field of data science could be traced back to my junior year in college where I very much enjoyed taking advaced statistics courses. This passion never fades away and becomes even stronger during my study at UBC where I am able to use my knowledge and build useful models in real life.  
-
-I have strong passion about the filed of data science and artificial intelligence because I think these are powerful tools to make the world and people’s life better. As myself a fast learner and problem solver, I enjoy exploring and learning new things so I always keep updating my skillsets.
-
-I was born and raised in China, and went to the North America senven years ago. I love arts and architectures. My favourite artists are Monet and Morisot.
-
-### My Skill Set
-
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
-
-- Programming & Analytics: Python, R, SQL, Java, HTML5, SAS, Tableau
-- Machine Learning: Natural Language Processing (NLP), RNN, CNN, Clustering, KNN, SVM, PCA, Keras, TensorFlow
-- Statistical Analysis: Generalized linear regression, Bayesian regression, A/B testing
-
-### My Education Background
-
-Master of Data Science
-2018 – 2019
-University of British Columbia, Vancouver, BC
-Honors: Cumulative GPA 4.33 / 4.33
+### Unlabeled Documents Clustering and Topic Modeling
+University of British Columbia <br/>
+March 2019 - April 2019 <br/>
+- Applied unsupervised learning models to cluster unlabeled documents into groups and identified latent topics
+- Trained classification models by K-Means clustering and Latent Dirichlet allocation (LDA)
+- Tokenized, stemmed and removed stop-words, and extracted features by term frequency-inverse document frequency method for text preprocessing
 
 
+### AWS Text Data Analytics
+University of British Columbia <br/>
+March 2019 - April 2019 <br/>
+-	Applied text analytics on Google Books Ngram dataset to obtain the number of occurrences of specific words by year 
+-	Created S3 bucket and used Amazon elastic map reduce (EMR) cluster to reduce the running time of this analysis
 
-Bachelor of Arts, double major in Mathematics and Economics
-2014 – 2018
-Lawrence University, Appleton, WI, USA				
-Honors: Cumulative GPA 3.9 / 4.0, Four Year Dean’s List (2014 – 2018), Phi Beta Kappa
 
+### Stock Information Web Scrapping
+University of British Columbia <br/>
+March 2019 - April 2019 <br/>
+-	Obtained the time series of stock prices, volume, and technical indicators and created daily, weekly, and monthly plots
+-	Created a wrapper in Python to handle the Alpha Vantage API requests to retrieve information of a given stock, which makes working with the API easier
+
+
+### Course Prerequisite Diagram Web Scrapping
+University of British Columbia <br/>
+March 2019 - April 2019 <br/>
+-	Retrieved prerequisite information of each course in MDS program from UBC website using a BeautifulSoup object
+-	Created a diagram of all courses with direction arrows pointing from prerequisites to give an overall picture of courses
+
+
+### Image Processing Package Development
+University of British Columbia <br/>
+February 2019 - March 2019 <br/>
+- Developed a Python and an R package that can be used to emboss, compress images, and return dimensional information
+-	Applied git version control to manage multi-person project with Agile method and wrote comprehensive test suites
+- These packages are open sourced on GitHub that can be found at [BeautyPy](https://github.com/olivia-lin/BeautyPy) and [BeautyR](https://github.com/olivia-lin/BeautyR).
+
+
+### Handwritten Digits Image Classification
+University of British Columbia <br/>
+January 2019 - February 2019 <br/>
+-	Built a supervised model to classify handwritten-digit images from MNIST dataset
+-	Implemented a 5-layer convolutional neutral network (CNN) using Keras with 55 million pixels of training data and achieved validation accuracy over 97%
+
+
+### American IMDB Movie Recommender System and Score Prediction
+University of British Columbia <br/>
+January 2019 - February 2019 <br/>
+-	Built a supervised engine to predict scores for unreleased movies and an unsupervised engine to recommend movies
+-	Applied linear regression, and multivariate inference to predict movies’ scores, selected and modified predictors by combining stepwise method and Box-Cox transformation and used absolute error for evaluation 
+-	Implemented k-Nearest Neighbors (KNN) to find the most similar movies for recommendation, using and comparing both Euclidean distance and cosine similarity 
+
+
+### Transfer Learning Dog Breed Classification
+University of British Columbia <br/>
+January 2019 - February 2019 <br/>
+- Applied a pre-trained animal classification convolutional neural network (CNN) as a starting point, fine-tuned the original CNN, and further built a model to classify dog breed using Keras
+-	Increased the model accuracy from 22% to 76% comparing to a scratch CNN model without using transfer learning
+
+
+### Crime Data Interactive Visualizer
+University of British Columbia <br/>
+January 2019 - February 2019 <br/>
+-	Designed and implemented R Shiny app to allow users to interactively use the interface to select a state or city to visualize trends and patterns of different types of crime over time
+-	Implemented hover feature, which allows users to hover over the graph to see more details about each data point
+-	Published this app online for everyone to use, which can be found at https://olivia-lin.shinyapps.io/crime_visualizer/
+
+
+### Face Image Dimensionality Reduction
+University of British Columbia <br/>
+January 2019 - February 2019 <br/>
+-	Implemented and tuned parameters of principal component analysis (PCA) to extract information from face images under different lighting conditions
+-	Reduced dimensionality of each face image from 1024 components to 10 components while still capturing 85% of the information in the image
