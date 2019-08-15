@@ -1,5 +1,5 @@
 # Site
-title:              Personal Website
+title:              Olivia's Personal Website
 bio:                'Xinyi Lin (Olivia)'
 description:        "Data Science | Statistics | Machine Learning"
 locale:             en_US
@@ -11,10 +11,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          https://www.instagram.com/oliviaaalin/
-github:             https://olivia-lin.github.io
+linkedin:           linkedin.com/in/olivia-xinyi-lin
+github:             olivia-lin.github.io
+instagram:          www.instagram.com/oliviaaalin/
+
 
 # personal
 location:           Vancouver, BC            
