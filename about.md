@@ -8,7 +8,7 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" style="width:100px"/></span>
+<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" style="width:200px"/></span>
 
 Hi there, welcome to my personal website. 
 
@@ -19,14 +19,12 @@ I have strong passion about the filed of data science and artificial intelligenc
 I was born and raised in China, and went to the North America senven years ago. I love arts and architectures. My favourite artists are Monet and Morisot.
 
 <br/>
-
 ## Skill Set
 - **Programming & Analytics**: Python, R, SQL, Java, HTML5, SAS, Tableau
 - **Machine Learning**: Natural Language Processing (NLP), RNN, CNN, Clustering, KNN, SVM, PCA, Keras, TensorFlow
 - **Statistical Analysis**: Generalized linear regression, Bayesian regression, A/B testing
 
 <br/>
-
 ## Education
 
 **Master of Data Science** (2018 – 2019) <br/>
