@@ -10,8 +10,6 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" style="width:260px"/></span>
 
-Hi there, welcome to my personal website. 
-
 My name is Olivia, a recent graduate student of Master of Data Science (MDS) from the University of British Columbia. Now, I am actively seeking data scientists, machine learning engineer, and data analyst opportunities in the greater Vancouver area.
 
 I have strong passion about the filed of data science and artificial intelligence because I think these are powerful tools to make the world and people’s life better. As myself a fast learner and problem solver, I enjoy exploring and learning new things so I always keep updating my skillsets.
