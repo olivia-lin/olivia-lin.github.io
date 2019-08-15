@@ -33,7 +33,7 @@ Cumulative GPA 4.33 / 4.33 <br/>
 **Bachelor of Arts** (2014 – 2018) <br/>
 Lawrence University, Appleton, WI, USA <br/>
 Double major in Mathematics and Economics <br/>
-Cumulative GPA 3.9 / 4.0
+Cumulative GPA 3.9 / 4.0 <br/>
 Honors: Four Year Dean’s List, Phi Beta Kappa
 
 <br/>
