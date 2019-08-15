@@ -14,7 +14,9 @@ My name is Olivia, a recent graduate student of Master of Data Science (MDS) fro
 
 I have strong passion about the filed of data science and artificial intelligence because I think these are powerful tools to make the world and people’s life better. As myself a fast learner and problem solver, I enjoy exploring and learning new things so I always keep updating my skillsets.
 
-I was born and raised in China, and went to the North America senven years ago. I love arts and architectures. My favourite artists are Monet and Morisot.
+I was born and raised in China, and went to the North America senven years ago. 
+
+I love arts and architectures. My favourite artists are Monet and Morisot.
 
 <br/>
 ## Skill Set
@@ -36,10 +38,7 @@ Double major in Mathematics and Economics <br/>
 Cumulative GPA 3.9 / 4.0
 Honors: Four Year Dean’s List, Phi Beta Kappa
 
-
-<span class="image right"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt=""/></span>
-
- <br/>
+ 
  <br/>
  <br/>
  <br/>
