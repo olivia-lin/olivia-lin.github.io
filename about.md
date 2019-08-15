@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/photo.jpeg" | absolute_url }}" alt="" /></span>
 
 Hi there, welcome to my personal website. 
 
