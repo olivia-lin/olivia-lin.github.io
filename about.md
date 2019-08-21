@@ -12,9 +12,9 @@ sitemap:
 
 My name is Olivia, a recent graduate student of Master of Data Science (MDS) from the University of British Columbia. Now, I am actively seeking data scientists, machine learning engineer, and data analyst opportunities in the greater Vancouver area.
 
-I have strong passion about the filed of data science and artificial intelligence because I think these are powerful tools to make the world and people’s life better. As myself a fast learner and problem solver, I enjoy exploring and learning new things so I always keep updating my skillsets.
+I have a strong passion about the filed of data science and artificial intelligence because I think these are powerful tools. Being able to devote myself to make the world in its better form and make people’s life in a more convenient way excite me a great deal. As myself a fast learner and problem solver, I enjoy exploring new things and learning new knowledge.
 
-I was born and raised in China, and went to the North America senven years ago as an exchange student in high school. I love traveling, arts, and architectures. My favourite museum is The Art Institute of Chicago and favourite artists are Monet and Morisot. I am also a vlogger in my leisure time.
+I was born in China, and went to the North America senven years ago as an exchange student in high school. I love traveling, arts, and architectures. My favourite museum is The Art Institute of Chicago and favourite artists are Monet and Morisot. I am also a vlogger in my leisure time.
 
 <br/>
 ## Skill Set
