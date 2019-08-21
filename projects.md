@@ -18,6 +18,13 @@ University of British Columbia, March - April 2019 <br/>
 -	Applied text analytics on Google Books Ngram dataset to obtain the number of occurrences of specific words by year 
 -	Created S3 bucket and used Amazon elastic map reduce (EMR) cluster to reduce the running time of this analysis
 
+### [Survey Data Analysis on Office and Lab Hours](https://github.com/olivia-lin/Hours_spent_on_labs_survey_analysis)
+University of British Columbia, March - April 2019 <br/>
+-	Conducted a research on an exploratory question that whether the number of times a student goes to office hours affect the average number of hours they spend working on labs per week
+-	Collected data via surveys, performed exploratory data analysis (EDA), and conducted statistical hypothesis testing to conclude that 1 visit increase in office hours is expected to increase hours spent on labs per week by 1.1 times
+-	Wrote a 5-page [report](https://github.com/olivia-lin/Hours_spent_on_labs_survey_analysis/blob/master/docs/3_Final_Report.md) to explain this project thoroughly, including background, method and conclusions
+
+
 ### Stock Information Web Scrapping
 University of British Columbia, March - April 2019 <br/>
 -	Obtained the time series of stock prices, volume, and technical indicators and created daily, weekly, and monthly plots
@@ -50,7 +57,7 @@ University of British Columbia, January - February 2019 <br/>
 - Applied a pre-trained animal classification convolutional neural network (CNN) as a starting point, fine-tuned the original CNN, and further built a model to classify dog breed using Keras
 -	Increased the model accuracy from 22% to 76% comparing to a scratch CNN model without using transfer learning
 
-### Crime Data Interactive Visualizer
+### [Crime Data Interactive Visualizer](https://github.com/olivia-lin/CrimeVisualizer)
 University of British Columbia, January - February 2019 <br/>
 -	Designed and implemented R Shiny app to allow users to interactively use the interface to select a state or city to visualize trends and patterns of different types of crime over time
 -	Implemented hover feature, which allows users to hover over the graph to see more details about each data point
