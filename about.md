@@ -21,6 +21,7 @@ I was born in China, and went to the North America senven years ago as an exchan
 - **Programming & Analytics**: Python, R, SQL, Java, HTML5, SAS, Tableau, VBA
 - **Machine Learning**: Natural Language Processing (NLP), Convolutional Neutral Network (CNN), Recurrent Neutral Network (RNN), Clustering, k-Nearest Neighbors (KNN), Support Vector Machine (SVM), Principal Component Analysis (PCA), Keras, TensorFlow
 - **Statistical Analysis**: Generalized Linear Model (GLM), Bayesian regression, A/B testing, predictive modeling
+- **Tools:** AWS, Hadoop, Docker, Agile Methodology
 - **Languages**: English, Chinese
 
 <br/>
