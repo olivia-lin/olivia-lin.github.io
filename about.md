@@ -10,11 +10,12 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/profile.jpg" | absolute_url }}" alt="" style="width:250px"/></span>
 
-My name is Olivia, a recent graduate student of Master of Data Science (MDS) from the University of British Columbia. Now, I am actively seeking data scientists, machine learning engineer, and data analyst opportunities in the greater Vancouver area.
+Olivia Lin is an enthusiastic data scientist with strong background in statistics, mathematics, and economics. She now works with the Information and Communications Technology Council of Canada (ICTC), a national centre of expertise on the digital economy. With the data & analytics team, Olivia works specifically on data visualization, web scraping, and natural language processing. Olivia holds a Master of Data Science from the University of British Columbia.
 
-I have a strong passion about the filed of data science and artificial intelligence because I think these are powerful tools. Being able to devote myself to make the world in its better form and make people’s life in a more convenient way excite me a great deal. As myself a fast learner and problem solver, I enjoy exploring new things and learning new knowledge.
+Olivia has a strong passion about the field of data science and artificial intelligence because she believes these are powerful tools. Being able to devote herself to make the world in its better form and make people’s life in a more convenient way excites her a great deal. As a fast learner and problem solver, Olivia enjoys exploring new things and learning new knowledge.
 
-I was born in China, and went to the North America senven years ago as an exchange student in high school. I love traveling, arts, and architectures. My favourite museum is The Art Institute of Chicago and favourite artists are Monet and Morisot. I am also a vlogger in my leisure time.
+Olivia was born in China and studied in California as an exchange student in high school. Olivia loves traveling, arts, and architectures. Her favourite museum is The Art Institute of Chicago and favourite artists are Monet and Morisot. Olivia is also a vlogger and soft oil pastel painter in her spare time.
+
 
 <br/>
 ## Skill Set
