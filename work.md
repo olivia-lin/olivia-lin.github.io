@@ -7,7 +7,7 @@ sitemap:
     changefreq: weekly
 ---
 
-### Jr. Data Analyst
+### Jr. Data Scientist
 Information and Communications Technology Council of Canada (ICTC), Vancouver, BC <br/>
 October 2019 - present <br/>
 - Forecasted global future job demand with machine learning algorithms (NLP, Clustering, etc.), leveraged patent data into actionable insights
